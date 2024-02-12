@@ -1,0 +1,7 @@
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\bin\Debug\BE-U1-W3-D1-Esercitazione-Menu.exe.config
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\bin\Debug\BE-U1-W3-D1-Esercitazione-Menu.exe
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\bin\Debug\BE-U1-W3-D1-Esercitazione-Menu.pdb
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\obj\Debug\BE-U1-W3-D1-Esercitazione-Menu.csproj.AssemblyReference.cache
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\obj\Debug\BE-U1-W3-D1-Esercitazione-Menu.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\obj\Debug\BE-U1-W3-D1-Esercitazione-Menu.exe
+C:\Users\Jacopo\Desktop\BE-U1-W3-D1-Esercitazione-Menu\obj\Debug\BE-U1-W3-D1-Esercitazione-Menu.pdb
